@@ -1,4 +1,4 @@
-# 🧠 Artificial Neural Network (ANN) Projects
+# 🧠 Artificial Neural Network (ANN)
 
 Welcome to the **ANN (Artificial Neural Network)** repository!  
 This repository contains various beginner-to-intermediate level ANN-based projects implemented using **Python and NumPy**, showcasing how neural networks can be applied to solve real-world problems using basic logic, perceptrons, and activation functions.
@@ -44,6 +44,13 @@ Each folder or script contains:
    ```bash
    git clone https://github.com/kaushalkalas-awesome/ANN.git
    cd ANN
+
+---
+
+## 📬 Feedback & Contributions
+- Feel free to ⭐ star the repository if you find it useful.
+- Pull requests are welcome.
+- Raise issues if you find bugs or want enhancements.
 
 ---
 
