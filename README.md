@@ -14,13 +14,6 @@ Each folder or script contains:
 - Prediction for new input
 - Use of **Activation Functions**: `Step`, `Sigmoid`, `ReLU`, and `Tanh`
 
-### ✅ Projects Included:
-1. **Student Performance Prediction**
-2. **Temperature Prediction**
-3. **House Price Prediction**
-4. **Email Spam Detection**
-5. **Loan Approval Prediction**
-
 ---
 
 ## 🧠 Concepts Covered
