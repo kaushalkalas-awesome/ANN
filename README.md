@@ -42,6 +42,12 @@ Each folder or script contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ANN-Projects.git
-   cd ANN-Projects
+   git clone https://github.com/kaushalkalas-awesome/ANN.git
+   cd ANN
 
+---
+
+## ✍️ Author
+
+Kaushal Kalas
+B.Tech (Artificial Intelligence and Machine Learning)
