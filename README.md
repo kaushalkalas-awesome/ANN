@@ -31,12 +31,7 @@ Each folder or script contains:
 - Input Feature Normalization (Z-score scaling)  
 - Prediction on New Inputs  
 - Use of `Sigmoid`, `ReLU`, `Tanh` for analysis
-
----
-
-## 📁 Folder Structure (Example)
-
-
+  
 ---
 
 ## 🔢 Activation Functions
